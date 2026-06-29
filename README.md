@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+#  About Me:
 Software Engineer Aspirant | BCA Graduate<br>Learning JavaScript, Angular, and Full-Stack Development<br>Building projects, solving problems, and growing every day
 
 
