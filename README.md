@@ -71,16 +71,13 @@
 
 ---
 
+## 🎯 What I'm Building Now
 
-<h2 align="center">🐍 Contribution Snake</h2>
+- 🪑 **DeskForge**: Angular + TypeScript office furniture store
+- 📚 **LumenPath**: Python + Django learning and careers platform
+- 📖 **Learning:** ASP.NET Core, REST APIs, JWT authentication, SQL
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswincodess/Aswincodess/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aswincodess/Aswincodess/output/github-snake.svg" />
-  </picture>
-</p>
-
+---
 
 ## 🌟 Featured Projects
 
