@@ -71,10 +71,16 @@
 
 ---
 
-## 📈 Contribution Activity Graph
+<h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aswincodess&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <a href="https://github.com/Aswincodess">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Aswincodess&theme=tokyo-night&hide_border=true&area=true&custom_title=Aswin's%20Contribution%20Graph"
+      alt="Aswin's GitHub Contribution Graph"
+      width="95%"
+    />
+  </a>
 </p>
 
 ---
