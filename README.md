@@ -89,7 +89,7 @@
     <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=E-commerce&theme=tokyonight&hide_border=true" alt="DeskForge" />
   </a>
   <a href="https://github.com/Aswincodess/Lumenpath">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=Lumenpath&theme=tokyonight&hide_border=true" alt="LumenPath" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=Lumenpath&theme=tokyonight&hide_border=true&v=2" alt="LumenPath" />
   </a>
 </p>
 
