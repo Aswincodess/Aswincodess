@@ -86,7 +86,10 @@
 
 <p align="center">
   <a href="https://github.com/Aswincodess/E-commerce">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=E-commerce&theme=tokyonight&hide_border=true" alt="E-commerce Project" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=E-commerce&theme=tokyonight&hide_border=true" alt="DeskForge" />
+  </a>
+  <a href="https://github.com/Aswincodess/Lumenpath">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Aswincodess&repo=Lumenpath&theme=tokyonight&hide_border=true" alt="LumenPath" />
   </a>
 </p>
 
