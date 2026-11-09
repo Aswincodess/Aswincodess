@@ -71,18 +71,14 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity Graph</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <a href="https://github.com/Aswincodess">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Aswincodess&theme=tokyo-night&hide_border=true&area=true&custom_title=Aswin's%20Contribution%20Graph"
-      alt="Aswin's GitHub Contribution Graph"
-      width="95%"
-    />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aswincodess/Aswincodess/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aswincodess/Aswincodess/output/github-snake.svg" />
+  </picture>
 </p>
-
 ---
 
 ## 🌟 Featured Projects
