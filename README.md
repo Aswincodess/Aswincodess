@@ -55,10 +55,7 @@
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aswincodess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Aswincodess?style=for-the-badge&label=Total%20Stars&color=yellow" alt="Total Stars" />
-  <img src="https://img.shields.io/github/followers/Aswincodess?style=for-the-badge&label=Followers&color=blue" alt="Followers" />
-</p>
+
 
 ---
 
