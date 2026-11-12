@@ -1,4 +1,4 @@
-#👋 Hi, I'm Aswin Krishna
+# 👋 Hi, I'm Aswin Krishna
 
 <h3 align="center">
   Full Stack Developer | Angular • C# • ASP.NET Core • SQL
